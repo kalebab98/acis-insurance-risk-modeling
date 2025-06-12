@@ -1,6 +1,6 @@
 # ACIS Insurance Risk Modeling
 
-This project aims to perform end-to-end insurance risk analytics and build predictive models for pricing optimization at AlphaCare Insurance Solutions (ACIS).
+This project aims to perform end-to-end insurance risk analytics and build predictive models for pricing optimizations at AlphaCare Insurance Solutions (ACIS).
 
 ## Objectives
 
