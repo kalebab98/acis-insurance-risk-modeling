@@ -15,3 +15,12 @@ This project aims to perform end-to-end insurance risk analytics and build predi
 - Jupyter Notebook
 - Git & GitHub
 - DVC (Data Version Control)
+  
+## 🧭 Project Structure
+
+| Branch     | Focus Area                                   | Status |
+|------------|----------------------------------------------|--------|
+| `task-1`   | Git setup, project planning, Exploratory Data Analysis (EDA) | ✅ Complete |
+| `task-2`   | Data Version Control (DVC) setup and dataset tracking | ✅ Complete |
+| `main`     | Merged final work and clean documentation     | ✅ Active |
+| `task-3`   | Feature engineering, modeling, evaluation     | 🚧 Upcoming |
