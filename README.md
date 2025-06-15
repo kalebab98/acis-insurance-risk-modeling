@@ -1,31 +1,3 @@
-# Task 1: Git, GitHub Setup & Exploratory Data Analysis (EDA)
-
-This branch includes two main components of the project:
-
-1. **Git/GitHub version control setup**
-2. **Data understanding and exploratory data analysis (EDA)** for a vehicle insurance dataset
-
----
-
-## ✅ 1.1 Git and GitHub Setup
-
-### Tasks Completed
-
-- Initialized a Git repository for the weekly project
-- Created and worked on this dedicated branch: `task-1`
-- Followed good version control practices:
-  - Committed multiple times with clear messages
-  - Structured code and notebooks in a modular way
-- Used GitHub for collaboration and backup
-- GitHub Actions planned for future CI/CD setup
-
-### KPIs Achieved
-
-- ✔️ Development environment set up and Git integrated
-- ✔️ Demonstrated proper version control using branches and commits
-
----
-
 ## 📊 1.2 Exploratory Data Analysis (EDA) and Statistical Thinking
 
 ### Dataset Overview
