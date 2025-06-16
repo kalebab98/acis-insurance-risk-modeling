@@ -1,7 +1,8 @@
 __pycache__/
 .ipynb_checkpoints/
 *.csv
-*.dvc
+*oppp.ipynb
+*.py
 .env/
 .venv/
 *.pyc
