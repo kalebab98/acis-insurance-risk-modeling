@@ -1,20 +1,26 @@
-# Task 2: Data Version Control (DVC)
+# ACIS Insurance Risk Modeling
 
-This branch focuses on implementing **Data Version Control (DVC)** for the insurance dataset to ensure reproducibility and auditability of the project.
+This project aims to perform end-to-end insurance risk analytics and build predictive models for pricing optimizations at AlphaCare Insurance Solutions (ACIS).
 
----
+## Objectives
 
-## 🎯 Objective
+- Perform exploratory data analysis (EDA) to uncover risk patterns.
+- Conduct A/B testing to identify statistically significant risk drivers.
+- Build predictive models for claim severity and premium pricing.
+- Provide actionable business recommendations.
 
-To track, version, and share data as rigorously as we manage source code. DVC ensures that any analysis or modeling can be traced back to the exact dataset used.
+## Tech Stack
 
----
+- Python (Pandas, Seaborn, Scikit-learn, SHAP)
+- Jupyter Notebook
+- Git & GitHub
+- DVC (Data Version Control)
+  
+## 🧭 Project Structure
 
-## 🔧 Tasks Completed
-
-### ✅ DVC Installation & Initialization
-
-- Installed DVC using `pip install dvc`
-- Initialized DVC in the project directory:
-  ```bash
-  dvc init
+| Branch     | Focus Area                                   | Status |
+|------------|----------------------------------------------|--------|
+| `task-1`   | Git setup, project planning, Exploratory Data Analysis (EDA) | ✅ Complete |
+| `task-2`   | Data Version Control (DVC) setup and dataset tracking | ✅ Complete |
+| `main`     | Merged final work and clean documentation     | ✅ Active |
+| `task-3`   | Feature engineering, modeling, evaluation     | 🚧 Upcoming |
