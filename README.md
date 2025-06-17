@@ -16,11 +16,24 @@ This project aims to perform end-to-end insurance risk analytics and build predi
 - Git & GitHub
 - DVC (Data Version Control)
   
-## 🧭 Project Structure
 
-| Branch     | Focus Area                                   | Status |
-|------------|----------------------------------------------|--------|
-| `task-1`   | Git setup, project planning, Exploratory Data Analysis (EDA) | ✅ Complete |
-| `task-2`   | Data Version Control (DVC) setup and dataset tracking | ✅ Complete |
-| `main`     | Merged final work and clean documentation     | ✅ Active |
-| `task-3`   | Feature engineering, modeling, evaluation     | 🚧 Upcoming |
+## Key findings
+- Premiums are skewed with many high-value policies.
+
+- Higher risk seen in Gauteng and Limpopo provinces.
+
+- Heavy commercial vehicles have higher average losses.
+
+- Logistic regression worked best for predicting claim probability; XGBoost for claim severity.
+
+- Important features include vehicle value estimates, insured sum, vehicle type, and province.
+
+**Limitations**
+- Claim data is imbalanced, which affects model performance.
+
+- Model retraining needed over time due to changing patterns.
+
+- Some risk factors like driver behavior are not captured.
+
+
+
